@@ -1,7 +1,7 @@
 # STPC COORDS PICKER  
 *(with Objective JSON Editor)*
 
-**V1.0**
+**V1.1**
 
 ---
 
